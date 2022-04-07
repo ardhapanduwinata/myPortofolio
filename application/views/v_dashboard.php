@@ -5,12 +5,12 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>iPortfolio Bootstrap Template - Index</title>
+    <title>CV Ardhanarisvari Panduwinata</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="<?= base_url('assets/img/favicon.png') ?>" rel="icon">
+    <link href="<?= base_url('assets/img/favicon.png') ?>" rel="icon"> <!-- lambang di atas-->
     <link href="<?= base_url('assets/img/apple-touch-icon.png') ?>" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
@@ -36,7 +36,6 @@
 </head>
 
 <body>
-
     <!-- ======= Mobile nav toggle button ======= -->
     <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
 
@@ -46,13 +45,13 @@
 
             <div class="profile">
                 <img src="<?= base_url('assets/img/profile-img.jpg') ?>" alt="" class="img-fluid rounded-circle">
-                <h1 class="text-light"><a href="index.html">Alex Smith</a></h1>
+                <h1 class="text-light"><a href="index.html">Ardhanarisvari</a></h1>
                 <div class="social-links mt-3 text-center">
-                    <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                    <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                    <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                    <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                    <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                    <a href="https://twitter.com/WinataArdha" class="twitter"><i class="bx bxl-twitter"></i></a>
+                    <!-- <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a> -->
+                    <a href="https://www.instagram.com/arwnat/" class="instagram"><i class="bx bxl-instagram"></i></a>
+                    <!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a> -->
+                    <a href="https://www.linkedin.com/in/ardhapanduwinata/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
                 </div>
             </div>
 
@@ -61,8 +60,8 @@
                     <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
                     <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
                     <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
-                    <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
-                    <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li>
+                    <!-- <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li> -->
+                    <!-- <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li> -->
                     <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
                 </ul>
             </nav><!-- .nav-menu -->
@@ -72,8 +71,8 @@
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
         <div class="hero-container" data-aos="fade-in">
-            <h1>Alex Smith</h1>
-            <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p>
+            <h1>Ardhanarisvari</h1>
+            <p>I'm <span class="typed" data-typed-items="Web Developer, Passionate, Fast Learner"></span></p>
         </div>
     </section><!-- End Hero -->
 
@@ -127,7 +126,7 @@
         </section><!-- End About Section -->
 
         <!-- ======= Facts Section ======= -->
-        <section id="facts" class="facts">
+        <!-- <section id="facts" class="facts">
             <div class="container">
 
                 <div class="section-title">
@@ -172,7 +171,8 @@
                 </div>
 
             </div>
-        </section><!-- End Facts Section -->
+        </section> -->
+        <!-- End Facts Section -->
 
         <!-- ======= Skills Section ======= -->
         <section id="skills" class="skills section-bg">
@@ -307,7 +307,7 @@
         </section><!-- End Resume Section -->
 
         <!-- ======= Portfolio Section ======= -->
-        <section id="portfolio" class="portfolio section-bg">
+        <!-- <section id="portfolio" class="portfolio section-bg">
             <div class="container">
 
                 <div class="section-title">
@@ -421,10 +421,11 @@
                 </div>
 
             </div>
-        </section><!-- End Portfolio Section -->
+        </section> -->
+        <!-- End Portfolio Section -->
 
         <!-- ======= Services Section ======= -->
-        <section id="services" class="services">
+        <!-- <section id="services" class="services">
             <div class="container">
 
                 <div class="section-title">
@@ -466,12 +467,12 @@
                 </div>
 
             </div>
-        </section><!-- End Services Section -->
+        </section> -->
+        <!-- End Services Section -->
 
         <!-- ======= Testimonials Section ======= -->
-        <section id="testimonials" class="testimonials section-bg">
+        <!-- <section id="testimonials" class="testimonials section-bg">
             <div class="container">
-
                 <div class="section-title">
                     <h2>Testimonials</h2>
                     <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
@@ -491,8 +492,7 @@
                                 <h3>Saul Goodman</h3>
                                 <h4>Ceo &amp; Founder</h4>
                             </div>
-                        </div><!-- End testimonial item -->
-
+                        </div>
                         <div class="swiper-slide">
                             <div class="testimonial-item" data-aos="fade-up" data-aos-delay="100">
                                 <p>
@@ -504,8 +504,7 @@
                                 <h3>Sara Wilsson</h3>
                                 <h4>Designer</h4>
                             </div>
-                        </div><!-- End testimonial item -->
-
+                        </div>
                         <div class="swiper-slide">
                             <div class="testimonial-item" data-aos="fade-up" data-aos-delay="200">
                                 <p>
@@ -517,8 +516,7 @@
                                 <h3>Jena Karlis</h3>
                                 <h4>Store Owner</h4>
                             </div>
-                        </div><!-- End testimonial item -->
-
+                        </div>
                         <div class="swiper-slide">
                             <div class="testimonial-item" data-aos="fade-up" data-aos-delay="300">
                                 <p>
@@ -530,8 +528,7 @@
                                 <h3>Matt Brandon</h3>
                                 <h4>Freelancer</h4>
                             </div>
-                        </div><!-- End testimonial item -->
-
+                        </div>
                         <div class="swiper-slide">
                             <div class="testimonial-item" data-aos="fade-up" data-aos-delay="400">
                                 <p>
@@ -543,14 +540,13 @@
                                 <h3>John Larson</h3>
                                 <h4>Entrepreneur</h4>
                             </div>
-                        </div><!-- End testimonial item -->
-
+                        </div>
                     </div>
                     <div class="swiper-pagination"></div>
                 </div>
-
             </div>
-        </section><!-- End Testimonials Section -->
+        </section> -->
+        <!-- End Testimonials Section -->
 
         <!-- ======= Contact Section ======= -->
         <section id="contact" class="contact">
@@ -558,37 +554,42 @@
 
                 <div class="section-title">
                     <h2>Contact</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <p>Saya ucapkan terima kasih banyak atas kunjungan anda pada website CV saya.
+                        Saya harap melalui website CV singkat saya ini dapat membantu anda untuk sedikit mengenal kepribadian saya.
+                    </p>
                 </div>
-
+                <div class="alert alert-success" id="success-alert" role="alert" hide="true" style="position:fixed;top:5px;width:100%;display:none">
+                    <!-- <button type="button" class="close" data-dismiss="alert">x</button> -->
+                    <strong><span id="suksesCopy"></span> Copied to clipboard!</strong>
+                </div>
                 <div class="row" data-aos="fade-in">
-
-                    <div class="col-lg-5 d-flex align-items-stretch">
+                    <div class="col-lg-12 d-flex align-items-stretch">
                         <div class="info">
-                            <div class="address">
-                                <i class="bi bi-geo-alt"></i>
-                                <h4>Location:</h4>
-                                <p>A108 Adam Street, New York, NY 535022</p>
-                            </div>
+                            <div class="row">
+                                <div class="address col-md-4" style="cursor:pointer" title="Copy to clipboard">
+                                    <i class="bi bi-geo-alt"></i>
+                                    <h4>Location:</h4>
+                                    <p>Jl. Jabir No.85, RW.7, Ragunan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12550</p>
+                                </div>
 
-                            <div class="email">
-                                <i class="bi bi-envelope"></i>
-                                <h4>Email:</h4>
-                                <p>info@example.com</p>
-                            </div>
+                                <div class="email col-md-4" style="cursor:pointer" title="Copy to clipboard">
+                                    <i class="bi bi-envelope"></i>
+                                    <h4>Email:</h4>
+                                    <p>ardhapanduwinata01@gmail.com</p>
+                                </div>
 
-                            <div class="phone">
-                                <i class="bi bi-phone"></i>
-                                <h4>Call:</h4>
-                                <p>+1 5589 55488 55s</p>
+                                <div class="phone col-md-4" style="cursor:pointer" title="Copy to clipboard">
+                                    <i class="bi bi-whatsapp"></i>
+                                    <h4>Call:</h4>
+                                    <p>+6285755177805</p>
+                                </div>
                             </div>
-
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.7252752258705!2d106.82229111419433!3d-6.299784663408365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69edd80d9f4897%3A0x69bd658d2ff28dee!2sKost%20Jabir%2085!5e0!3m2!1sen!2sid!4v1649304781833!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
                         </div>
 
                     </div>
 
-                    <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+                    <!-- <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
                         <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                             <div class="row">
                                 <div class="form-group col-md-6">
@@ -615,30 +616,13 @@
                             </div>
                             <div class="text-center"><button type="submit">Send Message</button></div>
                         </form>
-                    </div>
+                    </div> -->
 
                 </div>
 
             </div>
         </section><!-- End Contact Section -->
-
     </main><!-- End #main -->
-
-    <!-- ======= Footer ======= -->
-    <footer id="footer">
-        <div class="container">
-            <div class="copyright">
-                &copy; Copyright <strong><span>iPortfolio</span></strong>
-            </div>
-            <div class="credits">
-                <!-- All the links in the footer should remain intact. -->
-                <!-- You can delete the links only if you purchased the pro version. -->
-                <!-- Licensing information: https://bootstrapmade.com/license/ -->
-                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
-                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-            </div>
-        </div>
-    </footer><!-- End  Footer -->
 
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
@@ -654,8 +638,44 @@
     <script src="<?= base_url('assets/vendor/php-email-form/validate.js') ?>"></script>
 
     <!-- Template Main JS File -->
+    <script src="<?= base_url('assets/js/jquery.js') ?>"></script>
     <script src="<?= base_url('assets/js/main.js') ?>"></script>
-
 </body>
+
+<script>
+    $(document).ready(function() {
+        // $("#success-alert").hide();
+
+        $('.address').click(function() {
+            var name = "Address";
+            var address = "Jl. Jabir No.85, RW.7, Ragunan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12550";
+            navigator.clipboard.writeText(address);
+            $('#suksesCopy').text(name);
+            $("#success-alert").fadeTo(1000, 500).slideUp(500, function() {
+                $("#success-alert").slideUp(500);
+            });
+        });
+
+        $('.email').click(function() {
+            var name = "Email";
+            var email = "ardhapanduwinata01@gmail.com";
+            navigator.clipboard.writeText(email);
+            $('#suksesCopy').text(name);
+            $("#success-alert").fadeTo(1000, 500).slideUp(500, function() {
+                $("#success-alert").slideUp(500);
+            });
+        });
+
+        $('.phone').click(function() {
+            var name = "Phone";
+            var phone = "+6285755177805";
+            navigator.clipboard.writeText(phone);
+            $('#suksesCopy').text(name);
+            $("#success-alert").fadeTo(1000, 500).slideUp(500, function() {
+                $("#success-alert").slideUp(500);
+            });
+        });
+    });
+</script>
 
 </html>

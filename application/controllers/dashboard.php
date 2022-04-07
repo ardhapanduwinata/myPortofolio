@@ -8,6 +8,7 @@ class Dashboard extends CI_Controller
         parent::__construct();
         // Your own constructor code
         $this->load->helper('url');
+        $this->load->library('email');
     }
 
     public function index()
